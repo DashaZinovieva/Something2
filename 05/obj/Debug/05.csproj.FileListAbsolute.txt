@@ -1,0 +1,14 @@
+C:\Users\Гость.B403-06.004\Desktop\05\05\bin\Debug\05.exe.config
+C:\Users\Гость.B403-06.004\Desktop\05\05\bin\Debug\05.exe
+C:\Users\Гость.B403-06.004\Desktop\05\05\bin\Debug\05.pdb
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\05.csprojAssemblyReference.cache
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\MainWindow.g.cs
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\App.g.cs
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\05_MarkupCompile.cache
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\05_MarkupCompile.lref
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\MainWindow.baml
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\05.g.resources
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\_05.Properties.Resources.resources
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\05.csproj.GenerateResource.cache
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\05.exe
+C:\Users\Гость.B403-06.004\Desktop\05\05\obj\Debug\05.pdb
